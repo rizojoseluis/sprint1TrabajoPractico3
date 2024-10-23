@@ -1,0 +1,14 @@
+{
+  "name": "practico03-superheroes",
+  "version": "1.0.0",
+  "description": "primer-package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jose Luis Rizo",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
